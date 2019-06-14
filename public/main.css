@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
+span{
+    font-size: 100px;
+    cursor: pointer;
+    color: rgb(133, 19, 19);
+}
